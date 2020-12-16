@@ -6,8 +6,6 @@ from tapiriik.services.Strava import StravaService
 Strava = StravaService()
 from tapiriik.services.Endomondo import EndomondoService
 Endomondo = EndomondoService()
-from tapiriik.services.EndoAlt import EndoAltService
-EndoAlt = EndoAltService()
 from tapiriik.services.Dropbox import DropboxService
 Dropbox = DropboxService()
 from tapiriik.services.GarminConnect import GarminConnectService

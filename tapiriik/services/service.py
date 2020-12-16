@@ -32,7 +32,6 @@ class Service:
             Strava,
             GarminConnect,
             Endomondo,
-            EndoAlt,
             SportTracks,
             Dropbox,
             TrainingPeaks,
@@ -68,7 +67,6 @@ class Service:
             VeloHero, # PWX export, no temperature
             Strava, # No laps
             Endomondo, # No laps, no cadence
-            EndoAlt,
             RunKeeper, # No laps, no cadence, no power
             BeginnerTriathlete, # No temperature
             Motivato,
